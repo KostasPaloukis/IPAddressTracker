@@ -1,0 +1,49 @@
+# .NET Core 6
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+**/packages/
+
+# MSTest
+testresults/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio code
+.vscode/
+
+# ReSharper
+_ReSharper*/
+
+# Rider
+.idea/
+
+# build artifacts
+artifacts/
+
+# .NET Core CLI Tools
+.project.lock.json
+Tools/
+
+# SQLite database files
+*.sqlite
+
+# Custom files
+custom.css
